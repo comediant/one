@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.thirtytechnologiesthirtydays" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="io.thirtytechnologiesthirtydays" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>ThirtyTechnologiesThirtyDays</name>
     <description>
-        30Technologies30Days application. Use this to keep track of the what's happening in 30Technologies30Days
+        phone
     </description>
     <author email="shekhargulati84@gmail.com" href="http://whyjava.wordpress.com/">
         Shekhar Gulati
